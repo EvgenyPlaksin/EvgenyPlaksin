@@ -5,7 +5,7 @@
  <a href="https://www.linkedin.com/in/evgeny-plaksin-163951225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-     <a href="https://t.me/Lnight_2783">
+     <a href="https://www.upwork.com/freelancers/~0179f825eea90502f6">
     <img src="https://img.shields.io/badge/Upwork-darkgreen?logo=upwork&logoColor=white&style=for-the-badge" alt="Upwork Badge"/>
   </a>
     <a href="https://t.me/Lnight_2783">
