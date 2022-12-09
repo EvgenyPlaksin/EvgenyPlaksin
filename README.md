@@ -27,7 +27,7 @@
 
 - :seedling: Learning more about android and new technologies 
 
-- :zap: In my free time, I make my own project and help other developers
+- :zap: In my free time, I make my own projects and help other developers
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Lnight_2783)
 
