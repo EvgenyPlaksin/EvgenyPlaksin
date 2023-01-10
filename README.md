@@ -8,7 +8,7 @@
      <a href="https://www.upwork.com/freelancers/~0179f825eea90502f6">
     <img src="https://img.shields.io/badge/Upwork-darkgreen?logo=upwork&logoColor=white&style=for-the-badge" alt="Upwork Badge"/>
   </a>
-    <a href="https://t.me/Lnight_2783">
+    <a href="https://t.me/Lnight_reborn">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I make my own projects and help other developers
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Lnight_2783)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Evgeny-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Lnight_reborn)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
