@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="300" height="200"/>
 
 <div id="badges">
- <a href="https://www.linkedin.com/in/evgeny-plaksin-163951225/">
+ <a href="https://www.linkedin.com/in/yevhenii-plaksin-163951225/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
      <a href="https://www.upwork.com/freelancers/~0179f825eea90502f6">
